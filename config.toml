@@ -34,7 +34,7 @@ google_tag_manager_id = ""
   copyright_text = "Ulf Dresen"
 
 [[menu.main]]
-name = "Services"
+name = "Portfolio"
 url = "/services/"
 weight = 1
 
