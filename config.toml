@@ -35,7 +35,7 @@ google_tag_manager_id = ""
 
 [[menu.main]]
 name = "Portfolio"
-url = "/services/"
+url = "/portfolio/"
 weight = 1
 
 [[menu.main]]
